@@ -222,7 +222,157 @@
 
 ## Day 105  表达在不同位置（上）
 
+- 介词服务名词
+
+> 介词是以名词为坐标，帮助名词定位更精确的位置，发掘名词的用途和意义。
+>
+> 站位：介词+名词
+>
+> in the box 在盒子里面 
+>
+> on the box 在盒子上面
+
+- 介词服务动词
+
+> 介词放在动词后面，来扩充动词的含义
+>
+> 站位：动词+介词
+>
+> come in 进来
+
+```
+1.in[ɪn] 在...里（强调在空间内部）
+	in the room
+	in the box
+	
+2.between[bɪ'twiːn] 在...中间
+	between A and B
+	between the two trees 两棵树之间
+【*】表示在相同两样东西之间时，要用between the two...，加the因为一般会有上下文特指
+
+3.on[ɒn] 在...上（多指和表面有接触）
+	on the table
+```
+
+```
+问：Where are you?
+答：I am + [位置].
+
+问：Where is my bag?
+答：It`s in Tom`s car.
+
+例：between the red table and the blue table
+例：between the two tables
+例:Your bag is between the two desks.
+
+问：What`s the box on the table?
+答：It`s your birthday cake.
+```
+
+```
+【补】chair[tʃeə] 椅子
+【补】Just between you and me.（不要跟别人讲。）
+```
+
+------
+
 ## Day 106 表达在不同位置（下）&关于“地方”的不同说法
+
+### Day 106-1 表达在不同位置（下）
+
+```
+1.under['ʌndə] 在...下面
+【*】多指在 无接触 的正下方
+	under the table
+	
+2.beneath[bɪ'niːθ] 在...下面
+【*】多指 有接触、紧贴 在下面
+	beneath the book
+
+3.below[bɪ'ləʊ] 在...之下
+【*】一般指垂直角度的某个点或者某个线以下
+	below my waist 腰部以下
+	below this line 在这条线以下
+【*】排名或地位在...之下
+	below me 在我之下
+	
+4.over['əʊvə] 在...正上面
+【*】与under相对，多指 无接触 的正上面
+
+5.above[ə'bʌv] 在...上面
+【*】与below相对，在垂直角度的某个点或者某个线以上
+	above my waist 腰部以上
+    above this line	在这条线以上
+    
+ 6.against[ə'genst][ə'geɪnst] 紧靠着
+ 	against the wall 紧靠着墙
+ 	
+7.near[nɪə(r)] 在...附近（相对距离不远处）
+	near my school 在我学校附近
+```
+
+```
+例:There is a box under the table.（桌子底下有个盒子。）
+
+例：The birthday card is beneath the book.
+
+问：What`s the box on the table?
+答：It`s your birthday cake.
+
+例：Tom is below me in the company.（在公司里汤姆的地位在我之下。）
+
+例：Tom is above me.（汤姆是我的顶头上司。）
+
+问：Can you describe this picture?（你能描述一下这张照片吗？）
+答：Ok.It`s a dining room in the picture.There is a beautiful lamp over the dining table.There is a dog under the dining table. 
+（好的。图片里里面是一个餐厅。餐桌的正上方有一个漂亮的吊灯。有一只狗在餐桌下面。）
+	
+问：Where is the bookstore you told me about?（你告诉过我的那个书店在什么地方？）
+答：That bookstore is near my school.（那个书店在我学校附近。）
+```
+
+```
+【补】describe[dɪ'skraɪb] 描述
+【补】dining room 餐厅（吃饭的地方）
+【补】dining table 餐桌
+【补】table lamp 台灯
+```
+
+### Day 106-2 关于“地方”的不同说法
+
+```
+1.place[/pleɪs] 地点，地方（使用最广）
+	a good place
+	a new place
+	
+2.location[lə(ʊ)'keɪʃ(ə)n] 位置
+【*】强调具体的地理位置
+
+3.area['eərɪə] 区域（某个特定的区域）
+	the red area 红色区域
+
+4.region['riːdʒ(ə)n] 行政区域
+	autonomous region 自治区
+```
+
+```
+例:Let`s go to my place.（去我住的地方吧。）
+例：I like this place.（我喜欢这个地方。）
+
+例：What`s your location？（你约了司机，然后司机问你具体地址）
+例：This is a good location for coffee shop.（这是一个咖啡店的好地方。）
+
+例：We have this area now.（我们已经占领了这个区域。）
+
+问：What`s the location of your company?（你的公司在什么位置？）
+答：It`s right here.There are lost of world famous companies in this area because this is a tax-free region.（就在这里。这个区域有很多世界知名公司，因为这是一个免税区。）
+```
+
+```
+【补】autonomous[ɔː'tɒnəməs] 自治的
+```
+
+
 
 ## Day 107 国家的不同区域
 
@@ -253,6 +403,8 @@
 ## Day 120 著名国际城市
 
 ## Day 121 大洲与大洋
+
+# 
 
 ## Day 122 表达方向&其他位置
 
