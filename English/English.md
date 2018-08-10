@@ -341,7 +341,7 @@
 ### Day 106-2 关于“地方”的不同说法
 
 ```
-1.place[/pleɪs] 地点，地方（使用最广）
+1.place[pleɪs] 地点，地方（使用最广）
 	a good place
 	a new place
 	
@@ -380,6 +380,23 @@
 ![位置](E:\MyRepository\English\img\位置.png)
 
 ## Day 107 国家的不同区域
+
+```
+1.country['kʌntrɪ] 国家
+【*】country并不是指某一个具体的乡村，而是泛泛指乡村这一个类
+	country music
+	
+2.province
+
+```
+
+```
+例:
+例：
+
+```
+
+
 
 ## Day 108 城市的不同区域&in和at的不同用法
 
